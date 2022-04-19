@@ -1,3 +1,3 @@
 # Git Demo
 
-This is a repo for demonstrating git!
+This is a repo for demonstrating git.
